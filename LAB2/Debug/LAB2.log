@@ -1,0 +1,3 @@
+﻿  LAB2.cpp
+c:\users\brunoswine\source\repos\apk\lab2\lab2\lab2.cpp(19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LAB2.vcxproj -> C:\Users\Brunoswine\source\repos\APK\LAB2\Debug\LAB2.exe
